@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @felphhh
+- 👀 I’m interested in Audio software and Hardware design
+- 🌱 I’m currently learning react - threejs and storybook
+- 💞️ I’m looking to collaborate on everything that is audio related, especially PDEs computation and cloud computing
+- 📫 How to reach me: Aedocfelipe@gmail.com
